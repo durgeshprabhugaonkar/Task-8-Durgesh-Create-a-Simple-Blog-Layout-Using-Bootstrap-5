@@ -1,49 +1,29 @@
 # Task-8-Durgesh-Create-a-Simple-Blog-Layout-Using-Bootstrap-5
 Simple, responsive blog template using Bootstrap 5, complete with multi-page navigation, search, and social links.
 
-# Simple & Responsive Blog (Bootstrap 5)
+This project is a responsive blog layout built using Bootstrap 5, HTML, CSS, and JavaScript.
+It demonstrates how to quickly create a modern UI with reusable Bootstrap components and a custom theme.
 
-This project is a straightforward, responsive blog website created using **Bootstrap 5**. It showcases how to build a clean and functional front-end with essential features for a modern blog.
+✨ Features
 
-## What's Inside?
+Responsive Navbar with brand and links
 
-This project demonstrates:
+Blog Cards with image, title, description, and “Read More” button
 
--   **Responsive Layouts:** The blog looks great on any device, from phones to desktops, thanks to Bootstrap's powerful grid system.
--   **Multi-Page Navigation:** Each blog post has its own dedicated page, allowing for clear and organized content.
--   **Interactive Elements:**
-    -   **Clickable Blog Cards:** Visually appealing cards that lead to individual blog posts.
-    -   **Live Search:** A search bar on the homepage to quickly find posts by title or description.
--   **Professional Footer:** A tidy footer fixed at the bottom of the page, including social media links for easy connection.
--   **Clean Code:** The project's code is organized into separate HTML (structure), CSS (styling), and JavaScript (interactivity) files for easy understanding and maintenance.
+Post Pages (post1, post2, post3) with gradient backgrounds and graphics
 
-## Technologies Used
+Footer that always stays at the bottom of the page
 
--   **HTML:** For building the website's structure.
--   **CSS:** For custom styling and making things look good.
--   **JavaScript:** For adding interactive features like search.
--   **Bootstrap 5:** The main framework used for responsive design and ready-made components.
--   **Font Awesome:** For easily adding icons like social media logos.
+Custom Styling with hover effects, gradients, and shadows
 
-## How to Get Started
+Mobile Friendly layout using Bootstrap Grid
 
-1.  **Clone this project:**
-    ```bash
-    git clone https://github.com/YourUsername/YourRepoName.git
-    ```
-    (Remember to put your actual GitHub details here!)
-2.  **Open the folder:** Go into the `YourRepoName` folder.
-3.  **Launch the homepage:** Double-click `index.html` to open the blog in your web browser.
+🛠️ Tools & Technologies
 
-## Project Files
+HTML5
 
--   `index.html`: The main homepage of your blog.
--   `post1.html`, `post2.html`, `post3.html`: Dedicated pages for each blog post.
--   `style.css`: All the custom design rules for how the blog looks.
--   `script.js`: The code that makes the search function work.
+CSS3 (custom + Bootstrap utilities)
 
-## Want to Change Something?
+Bootstrap 5 (via CDN)
 
--   **Design:** Adjust `style.css` to change colors, fonts, or other visual elements.
--   **Content:** Modify the `.html` files to update text, images, or add new posts.
--   **Social Links:** Update the links in the footer of your HTML files.
+JavaScript
